@@ -10,7 +10,8 @@ Emails: marcela.barella@hotmail.com / barellamarcela@gmail.com
 
 Possuo experiência do desenvolvimento de software, incluindo arquiteturas escaláveis, micro-serviços, segurança,
 machine learning e SEO.
-Atualmente procuro
+Atualmente procuro oportunidades para aprender, ensinar, e aplicar meus conhecimentos, em uma empresa com possibilidade de troca
+cultural e intelectual, com uma postura ética positiva e que permita a construção de coisas novas.
 
 ## Experiência Profissional
 
