@@ -62,6 +62,6 @@ cultural e intelectual, com uma postura ética positiva e que permita a constru�
 ### Outros
 - GraphQL, REST APIs
 - Docker e Kubernetes.
-- Metodologias (TDD, BDD, Kanban, Scrum, Integra Continua).
+- Metodologias (TDD, BDD, Kanban, Scrum, Integração Contínua).
 - Unix/Linux.
 
