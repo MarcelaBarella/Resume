@@ -1,10 +1,10 @@
 # Marcela Barella Silva
 
-25 years
-São Paulo - SP - Brazil
-Celular: +55 11 963534656
-Skype: marcelabarella
-Emails: marcela.barella@hotmail.com / barellamarcela@gmail.com
+25 years  
+São Paulo - SP - Brazil  
+Celular: +55 11 963534656  
+Skype: marcelabarella  
+Emails: marcela.barella@hotmail.com / barellamarcela@gmail.com  
 
 ## About
 
