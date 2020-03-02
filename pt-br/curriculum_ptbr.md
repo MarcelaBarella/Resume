@@ -15,6 +15,11 @@ cultural e intelectual, com uma postura ética positiva e que permita a constru�
 
 ## Experiência Profissional
 
+**Foxbit - Desenvolvedora de Software Pleno(05/2019 - Atualmente):**
+- Desenvolver novas funcionalidades utlizando Ruby e NodeJS.
+- Participar na migração de plataforma Modiax.
+- Realizar manutenção em sistemas legados Ruby e NodeJs.
+
 **GetNinjas - Desenvolvedora de Software Pleno(05/2019 - atualmente):**
 - Desenvolver novas funcionalidades utlizando Ruby, Python e NodeJS para o time de growth visando melhoras em nosso SEO. Utilizando
 - Arquitetar e implementar micro-serviço para gerenciamento performático de conteúdos, utilizando Python, GraphQL e Postgres.
