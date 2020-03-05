@@ -28,7 +28,7 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 - Refactor a monolithic system to use micro-services (Face Match and OCR).
 - Help on the migration of the Face Match application (including all the infra) from GitHub to Gitlab.
 
-**Geru - Spftware Developer(02/2018 - 06/2018):**
+**Geru - Software Developer(02/2018 - 06/2018):**
 - Develop new features for financial system using Python.
 - Refactor tracking functionalities for metrics exibition on Grafana.
 
