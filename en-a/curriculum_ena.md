@@ -65,5 +65,5 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 ### Other
 - GraphQL, REST APIs
 - Docker e Kubernetes.
-- Metodologias (TDD, BDD, Kanban, Scrum, Integra Continua).
+- Methodologies (TDD, BDD, Kanban, Scrum, Continuous Integration).
 - Unix/Linux.
