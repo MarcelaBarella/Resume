@@ -1,6 +1,6 @@
 # Marcela Barella Silva
 
-25 years  
+26 years  
 São Paulo - SP - Brazil  
 Cell Phone: +55 11 963534656  
 Skype: marcelabarella  
@@ -13,7 +13,12 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 
 ## Work Experience
 
-**Foxbit - Software Developer(05/2019 - Currently):**
+**Luizalabs - Software Developer(09/2020 - Currently):**
+- Develop new features using Python(Django, Pytest).
+- Assist the refactor of "Quero de Casamento" system.
+- Perform maintenance on legacy Python system.
+
+**Foxbit - Software Developer(01/2020 - 08/2020):**
 - Develop new features using Ruby and NodeJS.
 - Assist in modiax platform migration.
 - Perform maintenance on legacy Ruby and NodeJs systems.
