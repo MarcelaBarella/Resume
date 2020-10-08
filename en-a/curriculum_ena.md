@@ -11,6 +11,39 @@ Emails: marcela.barella@hotmail.com / barellamarcela@gmail.com
 I have experience with software development, including scalable architectures, micro-services, security, machine learning and SEO.
 I am looking for opportunities for learning, teaching, and applying my knowledge, in a company with possibility of cultural and intellectual exchange, with a positive ethical stance and one that allows the creation of new things.
 
+
+## Skills
+
+### Programming Languages:
+- Python (Flask, Pyramid, Django, Scrapy, Numpy, Pandas, Pytest).
+- Ruby (Rails, Grape, RSpec).
+- C# (.NET, ASP.NET MVC, ASP).
+- JavaScript (NodeJS, JQuery, React, Cypress, Express).
+
+### Data Management:
+- MongoDB
+- Postgres
+- MySQL
+- SQLServer
+- Redis
+
+### Cloud Sercives
+- Google Cloud
+- AWS
+
+### Other
+- GraphQL, REST APIs
+- Docker e Kubernetes.
+- Methodologies (TDD, BDD, Kanban, Scrum, Continuous Integration).
+- Unix/Linux.
+
+
+## Education
+**Graduate in Analysis and Systems Development** - FATEC Ipiranga (Trancado).
+**Graduate in Materials Science** - FATEC SP - (2012 - 2015, Concluído).
+**Scholarship CNPq** - (02/2015 - 09/2015).
+
+
 ## Work Experience
 
 **Luizalabs - Software Developer(09/2020 - Currently):**
@@ -42,33 +75,3 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 
 **Agência Foster - Intern(03/2016 - 04/2017):**
 - Develop new features and perform maintenance on sites and admin systems of big companies with C# and JavaScript.
-
-## Education
-**Graduate in Analysis and Systems Development** - FATEC Ipiranga (Trancado).
-**Graduate in Materials Science** - FATEC SP - (2012 - 2015, Concluído).
-**Scholarship CNPq** - (02/2015 - 09/2015).
-
-## Skills
-
-### Programming Languages:
-- Python (Flask, Pyramid, Django, Scrapy, Numpy, Pandas, Pytest).
-- Ruby (Rails, Grape, RSpec).
-- C# (.NET, ASP.NET MVC, ASP).
-- JavaScript (NodeJS, JQuery, React, Cypress, Express).
-
-### Data Management:
-- MongoDB
-- Postgres
-- MySQL
-- SQLServer
-- Redis
-
-### Cloud Sercives
-- Google Cloud
-- AWS
-
-### Other
-- GraphQL, REST APIs
-- Docker e Kubernetes.
-- Methodologies (TDD, BDD, Kanban, Scrum, Continuous Integration).
-- Unix/Linux.
