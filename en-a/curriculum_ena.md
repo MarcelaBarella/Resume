@@ -1,6 +1,6 @@
 # Marcela Barella Silva
 
-26 years  
+28 years  
 São Paulo - SP - Brazil  
 Cell Phone: +55 11 963534656  
 Skype: marcelabarella  
@@ -46,7 +46,16 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 
 ## Work Experience
 
-**Luizalabs - Software Developer(09/2020 - Currently):**
+**Zup - Software Developer(09/2020 - Currently):**
+- Develop new features using Python.
+- Perform maintenance on legacy Python system.
+- Assist the creation of "Pronamp" systens.
+- Assist the creation of "Novo Biro" systems.
+
+**STRV - Software Developer(09/2021 - 06/2022):**
+- Develop full projects as social networks being responsible for creating and maintaining the project infrastructure using TypeScript, NodeJS, Koa, AWS.
+
+**Luizalabs - Software Developer(09/2020 - 09/2021):**
 - Develop new features using Python(Django, Pytest).
 - Assist the refactor of "Quero de Casamento" system.
 - Perform maintenance on legacy Python system.
