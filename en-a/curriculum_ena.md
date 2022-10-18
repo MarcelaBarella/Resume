@@ -8,19 +8,21 @@ Emails: marcela.barella@hotmail.com / barellamarcela@gmail.com
 
 ## About
 
-I have experience with software development, including scalable architectures, micro-services, security, machine learning and SEO.
-I am looking for opportunities for learning, teaching, and applying my knowledge, in a company with possibility of cultural and intellectual exchange, with a positive ethical stance and one that allows the creation of new things.
+  
+I have experience with software development, including scalable architectures, micro-services, security, machine learning, and SEO.
+I am looking for opportunities for learning, teaching, and applying my knowledge, in a company with the possibility of cultural and intellectual exchange, with a positive ethical stance, and one that allows the creation of new things.
 
-
+  
 ## Skills
 
+  
 ### Programming Languages:
 - Python (Flask, Pyramid, Django, Scrapy, Numpy, Pandas, Pytest).
 - Ruby (Rails, Grape, RSpec).
 - C# (.NET, ASP.NET MVC, ASP).
 - JavaScript (NodeJS, JQuery, React, Cypress, Express).
 
-
+  
 ### Data Management:
 - MongoDB
 - Postgres
@@ -28,41 +30,41 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 - SQLServer
 - Redis
 
-
+  
 ### Cloud Sercives
 - Google Cloud
 - AWS
 
-
+  
 ### Other
 - GraphQL, REST APIs
 - Docker e Kubernetes.
 - Methodologies (TDD, BDD, Kanban, Scrum, Continuous Integration).
 - Unix/Linux.
 
-
+  
 ## Education
 **Graduate in Analysis and Systems Development** - FATEC Ipiranga (Trancado).
 **Graduate in Materials Science** - FATEC SP - (2012 - 2015, Concluído).
 **Scholarship CNPq** - (02/2015 - 09/2015).
 
-
+  
 ## Work Experience
 
 **Zup - Software Developer(09/2020 - Currently):**
 - Develop new features using Python.
 - Perform maintenance on legacy Python system.
-- Assist the creation of "Pronamp" systens.
-- Assist the creation of "Novo Biro" systems.
+- Assist in the creation of "Pronamp" systems.
+- Assist in the creation of "Novo Biro" systems.
 
 
 **STRV - Software Developer(09/2021 - 06/2022):**
-- Develop full projects as social networks being responsible for creating and maintaining the project infrastructure using TypeScript, NodeJS, Koa, AWS.
+- Develop complete projects as social networks responsible for creating and maintaining the project infrastructure using TypeScript, NodeJS, Koa, and AWS.
 
 
 **Luizalabs - Software Developer(09/2020 - 09/2021):**
 - Develop new features using Python(Django, Pytest).
-- Assist the refactor of "Quero de Casamento" system.
+- Assist in the refactoring of the "Quero de Casamento" system.
 - Perform maintenance on legacy Python system.
 
 
@@ -73,20 +75,20 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 
 
 **GetNinjas - Software Developer(05/2019 - 12/2019):**
-- Develop new features using Python, Ruby and NodeJS for the growth team, aiming to improve our SEO.
-- Architect and implement micro-services for performance critical content management, using Python, GraphQL and Postgres.
+- Develop new features using Python, Ruby, and NodeJS for the growth team, aiming to improve our SEO.
+- Architect and implement micro-services for performance-critical content management, using Python, GraphQL, and Postgres.
 - Perform maintenance on legacy Ruby systems.
 
 
 **IDwall - Software Developer(07/2018 - 05/2019):**
 - Develop new features and perform maintenance on Face Match and OCR systems using Python.
 - Refactor a monolithic system to use micro-services (Face Match and OCR).
-- Help on the migration of the Face Match application (including all the infra) from GitHub to Gitlab.
+- Help with the migration of the Face Match application (including all the infra) from GitHub to Gitlab.
 
 
 **Geru - Software Developer(02/2018 - 06/2018):**
-- Develop new features for financial system using Python.
-- Refactor tracking functionalities for metrics exibition on Grafana.
+- Develop new features for a financial system using Python.
+- Refactor tracking functionalities for metrics exhibition on Grafana.
 
 
 **Freelancer(05/2017 - 12/2017):**
