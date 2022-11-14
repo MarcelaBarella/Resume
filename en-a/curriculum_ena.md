@@ -21,6 +21,7 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 - Ruby (Rails, Grape, RSpec).
 - C# (.NET, ASP.NET MVC, ASP).
 - JavaScript (NodeJS, JQuery, React, Cypress, Express).
+- Java (Spring Boot).
 
   
 ### Data Management:
@@ -29,6 +30,7 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 - MySQL
 - SQLServer
 - Redis
+- DynamoDB
 
   
 ### Cloud Sercives
@@ -52,7 +54,7 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
 ## Work Experience
 
 **Zup - Software Developer(09/2020 - Currently):**
-- Develop new features using Python.
+- Develop new features using Python/Java.
 - Perform maintenance on legacy Python system.
 - Assist in the creation of "Pronamp" systems.
 - Assist in the creation of "Novo Biro" systems.
