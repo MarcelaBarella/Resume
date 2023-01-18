@@ -48,7 +48,7 @@ I am looking for opportunities for learning, teaching, and applying my knowledge
   
 ## Work Experience
 
-**Zup - Software Developer(09/2020 - Currently):**
+**Zup - Software Developer(07/2022 - Currently):**
 - Develop new features using Python/Java.
 - Perform maintenance on legacy Python system.
 - Assist in the creation of "Pronamp" systems.
