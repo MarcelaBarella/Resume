@@ -20,7 +20,6 @@ cultural e intelectual, com uma postura ética positiva e que permita a constru�
 - Ruby (Rails, Grape, RSpec).
 - C# (.NET, ASP.NET MVC, ASP).
 - JavaScript (NodeJS, JQuery, React, Cypress, Express).
-- Java (Spring Boot).
   
 ### Banco de Dados:
 - MongoDB.
@@ -42,22 +41,23 @@ cultural e intelectual, com uma postura ética positiva e que permita a constru�
 - Kafka.
 - Apache Beam.
 - Apache Airflow.
+- ETL.
   
 ## Experiência Profissional
 
-**Zup - Software Developer(09/2020 - Atualmente):**
-- Desenvolver novas funcionalidades utilizando Python(Flask) e Java(SpringBoot).
+**Zup - Engenheira de Dados(06/2022 - 02/2023):**
+- Desenvolver novas funcionalidades utilizando Python(Flask).
 - Realizar manutenção em sistemas legados Python.
 - Participar da criação do sistema para buscas no "Pronamp".
 - Participar da criação do sistema para buscas no "Novo Biro".
 - Realizar processamento de dados utilizando ferramentas de engenharia de dados.
   
-**STRV - Software Developer(09/2021 - 06/2022):**
+**STRV - Desenvolvedora de Software(09/2021 - 06/2022):**
 - Desenvolver as primeiras versão de uma rede social para cura de doenças (TypeScript, NodeJS, Koa).
 - Desenvolver a primeira versão de uma rede social para busca de talentos musicais (TypeScript, NodeJS, Koa).
 - Manutenção de códigos legados (TypeScript, NodeJS, Koa).
   
-**Luizalabs - Software Developer(09/2020 - 09/2021):**
+**Luizalabs - Desenvolvedora de Software(09/2020 - 09/2021):**
 - Desenvolver novas funcionalidades utlizando Python (Django, Pytest).
 - Participar da refatoração do sistema legado do "Quero de Casamento".
 - Participar do lançamento do sistema para o produto "Chá de Bebê".
