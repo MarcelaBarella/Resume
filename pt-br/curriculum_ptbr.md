@@ -1,6 +1,6 @@
 # Marcela Barella Silva
 
-28 anos  
+29 anos  
 São Paulo - SP - Brasil  
 Celular: 11 963534656  
 Skype: marcelabarella  
@@ -39,11 +39,17 @@ cultural e intelectual, com uma postura ética positiva e que permita a constru�
 - Methodologies (TDD, BDD, Kanban, Scrum, Continuous Integration).
 - Unix/Linux.
 - Kafka.
-- Apache Beam.
 - Apache Airflow.
 - ETL.
   
 ## Experiência Profissional
+
+**Karhub - Engenheira de Dados(05/2023 - atualmente):**
+- Desenvolver novas funcionalidades utilizando Python(Flask, Fast API).
+- Realizar manutenção em sistemas legados Python (Pandas).
+- Criar e realizar manutenção de pipelines de dados (AWS, GCP).
+- Realizar a conteinerização de trabalhos ETL, aprimorando a escalabilidade dos pipelines existentes.
+- Implementar o monitoramento e alertas de pipelines.
 
 **Zup - Engenheira de Dados(06/2022 - 02/2023):**
 - Desenvolver novas funcionalidades utilizando Python(Flask).
