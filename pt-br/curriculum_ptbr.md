@@ -44,7 +44,7 @@ cultural e intelectual, com uma postura ética positiva e que permita a constru�
   
 ## Experiência Profissional
 
-**Karhub - Engenheira de Dados(05/2023 - atualmente):**
+**Karhub - Engenheira de Dados(01/2023 - atualmente):**
 - Desenvolver novas funcionalidades utilizando Python(Flask, Fast API).
 - Realizar manutenção em sistemas legados Python (Pandas).
 - Criar e realizar manutenção de pipelines de dados (AWS, GCP).
